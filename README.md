@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a Frontend Web Developer that loves building beautiful and performant websites!
+- 🔭 Check out the site I'm working on! [Nat-Artemis](https://inaturalist-artemis.vercel.app/)
+- 🌱 Currently learning [Vue.js](https://vuejs.org/)
+
+## Links and stuff
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luisbe90/)
+
 <!--
 **luisb90/luisb90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
